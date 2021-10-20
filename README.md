@@ -27,3 +27,28 @@ Os **bugs** e **user stories** serão criados em seus respectivos projetos, por�
 nos épicos do repositório de documentação e no projeto central da organização.
 
 Seguiremos a idéia proposta em: https://www.atlassian.com/agile/project-management/epics-stories-themes
+
+
+## Notas sobre usar Scrum com o Github
+
+### Product Backlog
+* issue:tags(`scrum.product`)
+  - A issue é um Produto
+  - Sua descrição é a "Meta do Produto"
+  - Na issue estão linkados os "Product Backlog" relacionados
+* issue:tags(`scrum.backlog`)
+  - A issue é um "Product Backlog Item"
+
+### Sprint Backlog
+* issue:tags(`scrum.sprint`)
+   - A issue é a Sprint
+   - Sua descrição é a "Meta da Sprint"
+   - Na issue estão linkados os "Incrementos"
+   - Na issue estão linkados os "Sprint Backlog preparados para Sprint" relacionados
+* issue:tags(`scrum.increment`)
+   - A issue é um "Incremento"
+   - Sua descrição é a "Definição de Pronto"
+   - Nela podem estar linkados os "Sprint Backlog preparados para Sprint" relacionados
+* issue:tags(`scrum.backlog` + `scrum.prepared`)
+   - A issue é um "Product Backlog preparado para Sprint"
+   - Na sua descrição estão os detalhes
