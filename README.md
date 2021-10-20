@@ -55,3 +55,5 @@ Seguiremos a idéia proposta em: https://www.atlassian.com/agile/project-managem
 * issue:tags(`scrum.backlog` + `scrum.prepared`)
    - A issue é um "Product Backlog preparado para Sprint"
    - Na sua descrição estão os detalhes
+
+> **TODO** Rever _Incremento/Definição de Pronto_ no Guia do Scrum
