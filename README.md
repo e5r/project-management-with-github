@@ -31,7 +31,7 @@ Seguiremos a idéia proposta em: https://www.atlassian.com/agile/project-managem
 
 ## Notas sobre usar Scrum com o Github
 
-### Product Backlog
+### Product
 * issue:tags(`scrum.product`)
   - A issue é um Produto
   - Sua descrição é a "Meta do Produto"
@@ -39,10 +39,11 @@ Seguiremos a idéia proposta em: https://www.atlassian.com/agile/project-managem
 * issue:tags(`scrum.backlog`)
   - A issue é um "Product Backlog Item"
 
-### Sprint Backlog
+### Sprint
 * issue:tags(`scrum.sprint`)
    - A issue é a Sprint
    - Sua descrição é a "Meta da Sprint"
+   - Na issue está linkado o **único** "Product" a qual a "Sprint" pertence
    - Na issue estão linkados os "Incrementos"
    - Na issue estão linkados os "Sprint Backlog preparados para Sprint" relacionados
 * issue:tags(`scrum.increment`)
