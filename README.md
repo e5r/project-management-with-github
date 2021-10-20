@@ -56,4 +56,5 @@ Seguiremos a idéia proposta em: https://www.atlassian.com/agile/project-managem
    - A issue é um "Product Backlog preparado para Sprint"
    - Na sua descrição estão os detalhes
 
-> **TODO** Rever _Incremento/Definição de Pronto_ no Guia do Scrum
+> **TODO** Rever _Incremento/Definição de Pronto_ no Guia do Scrum. Provavelmente a definição de pronto
+> deva estar relacionado ao _Product_ e não a sprint. E talvez uma _Sprint_ possa relacionar mais de um _Product_.
