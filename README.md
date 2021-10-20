@@ -51,6 +51,7 @@ Seguiremos a idéia proposta em: https://www.atlassian.com/agile/project-managem
    - Sua descrição é a "Definição de Pronto"
    - Nela podem estar linkados os "Sprint Backlog preparados para Sprint" relacionados
    - Um incremento é o que pode ser testado
+   - Um incremento só existe dentro de uma sprint
 * issue:tags(`scrum.backlog` + `scrum.prepared`)
    - A issue é um "Product Backlog preparado para Sprint"
    - Na sua descrição estão os detalhes
